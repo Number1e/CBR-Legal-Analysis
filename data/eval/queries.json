@@ -1,0 +1,62 @@
+[
+    {
+        "query": "dakwaan bahwa terdakwa iksan bin muhajir bersama dengan temanterdakwa bernama la ode ricardo als riko bin la ode saliu(terdakwa dalam berkas perkara terpisah) pada hari rabu tanggal 28 agustus2019 sek...",
+        "ground_truth": [
+            "case_032"
+        ]
+    },
+    {
+        "query": "primairbahwa terdakwa la ode rino alias rino bin nobo, pada hari senintanggal 11 mei 2020 sekira pukul 18:20 wita atau setidak-tidaknya pada suatuwaktu dalam bulan mei 2020, bertempat di pasar malam, ...",
+        "ground_truth": [
+            "case_020"
+        ]
+    },
+    {
+        "query": "primair ----------- bahwa terdakwa suparman alias la bode bin la puru, bersama-sama dengan saksi masrudin alias la ane bin muhamma (belum tertangkap/dpo) pada hari rabu tanggal 22 agustus 2018 sekitar...",
+        "ground_truth": [
+            "case_028"
+        ]
+    },
+    {
+        "query": "dakwaan primair bahwa terdakwa sahrianto widi alias syarianto alias anton bin la pado bersama dengan saudara randi (daftar pencarian orang) pada hari kamis tanggal 30 november 2018, sekira pukul 13.30...",
+        "ground_truth": [
+            "case_022"
+        ]
+    },
+    {
+        "query": "primair ----------- bahwa terdakwa erman alias arun bin muliadi pada hari minggu tanggal 27 januari 2019\u00e2 sekitar pukul 02.00\u00e2 wita, atau setidak-tidaknya pada suatu waktu tertentu dalam bulan januari...",
+        "ground_truth": [
+            "case_013"
+        ]
+    },
+    {
+        "query": "dakwaan bahwa terdakwa muh. sawaludin alias ludi bin tajudin pada hari minggu tanggal 17 maret 2019 sekitar pukul 03.00 wita, atau setidak-tidaknya pada suatu waktu tertentu dalam bulan maret tahun 20...",
+        "ground_truth": [
+            "case_014"
+        ]
+    },
+    {
+        "query": "dakwaan kesatu bahwa terdakwa la dewa bin la safa, pada hari senin tanggal 25 desember 2017 sekitar pukul 04.45 wita (dini hari), atau setidak-tidaknya pada suatu waktu tertentu dalam bulan desemberta...",
+        "ground_truth": [
+            "case_033"
+        ]
+    },
+    {
+        "query": "dakwaan bahwa terdakwa la ode ricardo als riko bin la ode saliubersama dengan teman terdakwa bernama iksan bin muhajir (terdakwadalam berkas perkara terpisah) pada hari rabu tanggal 28 agustus 2019sek...",
+        "ground_truth": [
+            "case_029"
+        ]
+    },
+    {
+        "query": "dakwaan pertama bahwa terdakwasahril alias la cali bin siramibersama dengan lelaki la rama (daftar pencarian orang)pada harisenin tanggal 15 april 2019 sekitar pukul 01.00 wita (dini hari), atau setid...",
+        "ground_truth": [
+            "case_017"
+        ]
+    },
+    {
+        "query": "primair bahwa terdakwa wa ode nuriana alias ana binti hasan pada hari senin tanggal 19 november 2018 sekitar pukul 21.13 wita, atau setidak-tidaknya pada suatu waktu tertentu dalam bulan november tahu...",
+        "ground_truth": [
+            "case_001"
+        ]
+    }
+]
